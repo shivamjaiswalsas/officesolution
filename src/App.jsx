@@ -23,7 +23,7 @@ export default function App() {
             </button>
             <button
               onClick={() => setActiveTask(2)}
-              className="px-5 py-3 bg-emerald-900 hover:bg-pink-700 text-white rounded-lg shadow"
+              className="px-5 py-3 bg-orange-950 hover:bg-pink-700 text-white rounded-lg shadow"
             >
               Task 2
             </button>
